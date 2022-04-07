@@ -3373,22 +3373,22 @@ span.categoryBar-list-count::after {
   right: -100%;
 }
 li.categoryBar-list-item:nth-child(1) {
-  background: url('https://unpkg.zhimg.com/akilar-candyassets/image/cover1.webp');
+  background: url('https://npm.elemecdn.com/kooma-assets/category_1.jpg');
 }
 li.categoryBar-list-item:nth-child(2) {
-  background: url('https://unpkg.zhimg.com/akilar-candyassets/image/cover2.webp');
+  background: url('https://npm.elemecdn.com/kooma-assets/category_2.jpg');
 }
 li.categoryBar-list-item:nth-child(3) {
-  background: url('https://unpkg.zhimg.com/akilar-candyassets/image/cover3.webp');
+  background: url('https://npm.elemecdn.com/kooma-assets/category_3.jpg');
 }
 li.categoryBar-list-item:nth-child(4) {
-  background: url('https://unpkg.zhimg.com/akilar-candyassets/image/cover4.webp');
+  background: url('https://npm.elemecdn.com/kooma-assets/category_4.jpg');
 }
 li.categoryBar-list-item:nth-child(5) {
-  background: url('https://unpkg.zhimg.com/akilar-candyassets/image/cover5.webp');
+  background: url('https://npm.elemecdn.com/kooma-assets/category_5.jpg');
 }
 li.categoryBar-list-item:nth-child(6) {
-  background: url('https://unpkg.zhimg.com/akilar-candyassets/image/cover6.webp');
+  background: url('https://npm.elemecdn.com/kooma-assets/category_6.jpg');
 }
 li.categoryBar-list-item:nth-child(1)>span::after {
   content: '学习教程' !important;
